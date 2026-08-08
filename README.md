@@ -26,7 +26,7 @@ Data was pulled from the Federal Railroad Administration (FRA) Form 6180.54 via 
 
 The original dataset contained 224,700 records with 155 features, spanning from 1975 to 2026. Database used was PostgreSQL and pulled into a Jupyter Notebook. After data cleaning, the remaining records explored were 159,995 with 26 features.
 
-Note: Raw dataset was too massive for upload. However, the website is a LIVE dataset that is constantly being updated. After testing new dataset on webpage, current notebook will not run because there is something wrong with the data. Massive limitation! However, I rebuilt the notebook and downloaded the clean dataset version I have so results can be run. There is a small difference in scores.
+Note: Raw dataset was too massive for upload. However, the website is a LIVE dataset that is constantly being updated. After testing new dataset on webpage, current notebook will not run because there is something wrong with the data. Massive limitation! However, I rebuilt the notebook and downloaded the clean dataset version I have so results can be run. There is a small difference in scores as I accidently did something and was not able to figure it out.
 
 
 How to Run
